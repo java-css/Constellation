@@ -1,0 +1,34 @@
+{
+  "name": "constellation",
+  "version": "0.0.1",
+  "description": "根据日期获取对应的星座，如：白羊座",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/java-css/Constellation.git"
+  },
+  "keywords": [
+    "constellation"
+  ],
+  "author": "https://github.com/java-css",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/java-css/Constellation/issues"
+  },
+  "homepage": "https://github.com/java-css/Constellation#readme",
+  "dependencies": {
+    "@babel/core": "^7.2.2",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.4",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "http-server": "^0.11.1",
+    "webpack": "^4.27.1",
+    "webpack-cli": "^3.1.2"
+  }
+}
