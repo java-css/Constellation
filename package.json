@@ -1,5 +1,5 @@
 {
-  "name": "constellation",
+  "name": "constellation_test",
   "version": "0.0.1",
   "description": "根据日期获取对应的星座，如：白羊座",
   "main": "src/index.js",
